@@ -1,4 +1,4 @@
-# Nginx Configuration Snippets
+# Nginx 配置文件
 A collection of useful Nginx configuration snippets inspired by
 [.htaccess snippets](https://github.com/phanan/htaccess).
 
